@@ -12,7 +12,7 @@
 
 🎥 Below is a video overview showcasing the main screens and interactions associated with the Social Feed feature:
 
-https://github.com/hdanylevych/Botan-Job-Project/assets/36959716/18a227ef-a28c-4d93-b812-1a38d3c1cf4c
+https://github.com/hdanylevych/Botan-Job-Project/assets/36959716/1bef222d-400c-4e8f-a85f-fb7fd437b281
 
 ### Challenges:
 
@@ -140,7 +140,7 @@ class SomeCoordinator: BaseCoordinator {
 
 🎥 Below is a video overview of the Plant Card feature:
 
-https://github.com/hdanylevych/Botan-Job-Project/assets/36959716/1380bcdd-638b-4d8e-a090-da8eab75a606
+https://github.com/hdanylevych/Botan-Job-Project/assets/36959716/32c9575e-6b41-4ce7-bfb8-11353529d2db
 
 ### Challenges:
 
